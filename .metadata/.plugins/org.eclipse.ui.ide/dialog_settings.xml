@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\hartu\OneDrive\Documentos\Alura\Microsserviços na prática implementando com Java e Spring\gateway"/>
+			<item value="C:\workspace\Testes\2545-alurafood-ms-java-spring-aula_04\pedidos"/>
+			<item value="C:\workspace\Testes\2545-alurafood-ms-java-spring-aula_04\pagamentos"/>
+			<item value="C:\workspace\Testes\2545-alurafood-ms-java-spring-aula_04\server"/>
+		</list>
+	</section>
+</section>
